@@ -1,0 +1,9 @@
+[submodule "multithread-house-price-prediction"]
+	path = multithread-house-price-prediction
+	url = https://github.com/aminst/multithread-house-price-prediction
+[submodule "min-distance-finder-using-pipes"]
+	path = min-distance-finder-using-pipes
+	url = https://github.com/aminst/min-distance-finder-using-pipes
+[submodule "project-market-using-socket"]
+	path = project-market-using-socket
+	url = https://github.com/aminst/project-market-using-socket
